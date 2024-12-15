@@ -1,5 +1,4 @@
 # Satyam-Ecommerce-Sales-Dashboard-
-Power Bi dashboard //
 Project Objective:-Satyam Ecommerce Sales Dashboard provides a comprehensive overview of sales performance, including profit, quantity, and amount metrics across various categories, payment modes, states, and customer names.
 
 Profit by Month :-
